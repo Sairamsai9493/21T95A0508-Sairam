@@ -1,4 +1,4 @@
-# 21T95A0508-Sairam
+this file contains all the assignments that  are provided in the internship
 
 
 
